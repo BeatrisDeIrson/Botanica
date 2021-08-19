@@ -1,0 +1,24 @@
+/* * {
+    margin: 0;
+}
+body {
+    font-family: 'Montserrat','Playfair Display', serif;
+}
+.catalog_1 {
+    background-image: url(../img/catalog_1.png);
+    width: 387px;
+    height: 443px;
+    border-radius: 3%;
+}
+.catalog_2 {
+    background-image: url(../img/catalog_2.png);
+    width: 387px;
+    height: 443px;
+    border-radius: 3%;
+}
+.catalog_3 {
+    background-image: url(../img/catalog_3.png);
+    width: 387px;
+    height: 443px;
+    border-radius: 3%;
+} */
